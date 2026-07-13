@@ -1,0 +1,6 @@
+/.trunk
+/.vscode
+/target
+*.lock
+*.txt
+*state.json
